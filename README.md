@@ -1,5 +1,4 @@
-<h1 align="center"> Hello there! 👋 </h1>
-<h3 align="center"><big> My name is Sérgio Ruediger 👨‍💻 </big></h3>
+<h2 align="center"> Hello there! 👋 <br>My name is Sérgio Ruediger 👨‍💻</h2>
 
 <p align="center"> I'm a Computer Science student with solid knowledge of Java, C/C++, Shell script, Linux and Photoshop. I also have experience with Python, Android development and SQL databases. </p>
 
