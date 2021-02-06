@@ -1,17 +1,13 @@
-<table align="center"><tr><td align="center" width="9999">
+<h1 align="center"> Hello there! 👋 </h1>
+<h2 align="center"> My name is Sérgio Ruediger 👨‍💻 </h2>
 
-# Hello there! 👋
-### My name is Sérgio Ruediger 👨‍💻
+<p align="center"> I'm a Computer Science student with solid knowledge of Java, C/C++, Shell script, Linux and Photoshop. I also have experience with Python, Android development and SQL databases. </p>
 
-
-I'm a Computer Science student with solid knowledge of Linux, Java, C/C++, shell script and Photoshop. I also have experience with python, android development (java & kotlin), and SQL databases.
-
-* <p align="left"> 📚 Currently learning and studying more about Kotlin and ML/DL.</p>
+* <p align="left"> 📚 Currently learning and studying more about Python for ML/DL and Kotlin.</p>
 * <p align="left"> 🤝 Open to job opportunities, project collaborations and freelance work.</p>
 
-#### Languages and Tools:
+<h3 align="center"> Languages and Tools: </h3>
 <p align="center"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p>
 
-#### Contact: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sruediger)](https://github.com/sruediger) [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:sruediger@protonmail.com)](mailto:sruediger@protonmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sruediger25)](https://t.me/sruediger25)
+<h3 align="center"> Contact: <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sruediger"/><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:sruediger@protonmail.com"/><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sruediger25"/> </h3>
 
-</td></tr></table>
